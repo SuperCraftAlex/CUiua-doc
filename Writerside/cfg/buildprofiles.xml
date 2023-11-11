@@ -1,7 +1,10 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
-
+        <algolia-id>0AWXBDQ4EU</algolia-id>
+        <algolia-index>cuiua-docs</algolia-index>
+        <algolia-api-key>42d58bbe14fa5071f0c12a780c7b1a07</algolia-api-key>
+        <web-root>https://supercraftalex.github.io/CUiua-doc/</web-root>
     </variables>
     <build-profile instance="operators"/>
     <footer>
