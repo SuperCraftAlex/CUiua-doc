@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="operators" name="Operators"
+                  start-page="">
+
+    <toc-element topic="OP-Length.md"/>
+    <toc-element topic="OP-Couple.md"/>
+    <toc-element topic="OP-Join.md"/>
+    <toc-element topic="OP-Reduce.md"/>
+    <toc-element topic="OP-Range.md"/>
+</instance-profile>
