@@ -20,6 +20,6 @@
 
 ## Examples
 ```Python
-10 ⇡
-# outputs: [0 1 2 3 4 5 6 7 8 9]
+[5 9 2 8 0 3] ⧻
+# outputs: 6
 ```
