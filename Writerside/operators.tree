@@ -14,5 +14,9 @@
     <toc-element topic="OP-Drop.md"/>
     <toc-element topic="OP-Rotate.md"/>
     <toc-element topic="OP-Reverse.md"/>
+    <toc-element topic="OP-Select.md"/>
+    <toc-element topic="OP-Pick.md"/>
+    <toc-element topic="OP-Deshape.md"/>
+    <toc-element topic="OP-Match.md"/>
     <toc-element topic="OP-Range.md"/>
 </instance-profile>
