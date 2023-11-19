@@ -5,9 +5,14 @@
 <instance-profile id="operators" name="Operators"
                   start-page="">
 
+    <toc-element topic="OP-Call.md"/>
     <toc-element topic="OP-Length.md"/>
+    <toc-element topic="OP-Take.md"/>
     <toc-element topic="OP-Couple.md"/>
     <toc-element topic="OP-Join.md"/>
     <toc-element topic="OP-Reduce.md"/>
+    <toc-element topic="OP-Drop.md"/>
+    <toc-element topic="OP-Rotate.md"/>
+    <toc-element topic="OP-Reverse.md"/>
     <toc-element topic="OP-Range.md"/>
 </instance-profile>
